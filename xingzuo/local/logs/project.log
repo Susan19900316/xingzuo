@@ -1,0 +1,52 @@
+2018-06-26T14:13:50.001Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-26T14:13:50.006Z - normal: checking language setting...
+2018-06-26T14:13:50.008Z - normal: Language: zh
+2018-06-26T14:13:51.761Z - success: protocol editor-framework registered
+2018-06-26T14:13:51.762Z - success: protocol app registered
+2018-06-26T14:13:51.762Z - success: protocol theme registered
+2018-06-26T14:13:51.762Z - success: protocol profile registered
+2018-06-26T14:13:51.762Z - success: protocol packages registered
+2018-06-26T14:13:51.762Z - success: protocol unpack registerred
+2018-06-26T14:13:51.762Z - success: protocol disable-commonjs registerred
+2018-06-26T14:13:52.046Z - normal: connected!
+2018-06-26T14:13:52.049Z - normal: Check project D:\xingzuo\trunk\xingzuo
+2018-06-26T14:13:52.051Z - normal: Initializing Cocos2d
+2018-06-26T14:13:52.439Z - normal: Initializing Asset Database
+2018-06-26T14:13:52.461Z - success: protocol uuid registerred
+2018-06-26T14:13:52.462Z - success: protocol db registerred
+2018-06-26T14:13:52.462Z - success: protocol thumbnail registerred
+2018-06-26T14:13:52.462Z - normal: Loading editor/builtin packages
+2018-06-26T14:13:52.653Z - success: assets loaded
+2018-06-26T14:13:52.655Z - success: builder loaded
+2018-06-26T14:13:52.658Z - success: hierarchy loaded
+2018-06-26T14:13:52.661Z - success: inspector loaded
+2018-06-26T14:13:52.662Z - success: keystore loaded
+2018-06-26T14:13:52.665Z - success: node-library loaded
+2018-06-26T14:13:52.666Z - success: preferences loaded
+2018-06-26T14:13:52.680Z - success: project-importer loaded
+2018-06-26T14:13:52.682Z - success: project-settings loaded
+2018-06-26T14:13:52.684Z - success: ui-kit loaded
+2018-06-26T14:13:52.691Z - success: ui-grid loaded
+2018-06-26T14:13:52.694Z - success: scene loaded
+2018-06-26T14:13:52.695Z - success: sprite-editor loaded
+2018-06-26T14:13:52.791Z - success: store loaded
+2018-06-26T14:13:52.795Z - success: timeline loaded
+2018-06-26T14:13:52.796Z - normal: Loading builtin packages
+2018-06-26T14:13:52.808Z - success: anysdk loaded
+2018-06-26T14:13:52.813Z - success: asset-db-debugger loaded
+2018-06-26T14:13:52.815Z - success: code-editor loaded
+2018-06-26T14:13:52.816Z - success: color-picker loaded
+2018-06-26T14:13:52.819Z - success: console loaded
+2018-06-26T14:13:52.821Z - success: package-manager loaded
+2018-06-26T14:13:52.823Z - success: tester loaded
+2018-06-26T14:13:52.825Z - success: ui-kit-preview-extra loaded
+2018-06-26T14:13:52.827Z - success: ui-kit-preview loaded
+2018-06-26T14:13:52.830Z - success: ui-tree loaded
+2018-06-26T14:13:52.874Z - normal: Initializing project D:\xingzuo\trunk\xingzuo
+2018-06-26T14:13:52.878Z - normal: Loading packages
+2018-06-26T14:13:52.882Z - normal: Watching packages
+2018-06-26T14:13:52.898Z - normal: Run Application
+2018-06-26T14:13:54.241Z - success: preview server running at http://localhost:7456
+2018-06-26T14:13:54.241Z - normal: Compiling scripts...
+2018-06-26T14:13:55.725Z - normal: Compiled project javascript file successfully
+2018-06-26T14:13:59.209Z - normal: 1.4.2
